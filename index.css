@@ -1,0 +1,7 @@
+div {
+  padding: 8px;
+  font-family: 'Arial', sans-serif; /* Specify the desired font family */
+  font-size: 20px; /* Specify the desired font size */
+  border: 2px solid purple; /* Border style with purple color */
+  border-radius: 10px; /* Rounded corners */
+}
